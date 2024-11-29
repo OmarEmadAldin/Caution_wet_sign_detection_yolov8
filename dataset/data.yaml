@@ -1,0 +1,10 @@
+names:
+- 'wet caution sign'
+nc: 1
+roboflow:
+  license: Omar OBE
+  project: Wet sign detection
+
+test: /content/gdrive/MyDrive/Caution_wet_sign_detection_yolov8/dataset/Test/images
+train: /content/gdrive/MyDrive/Caution_wet_sign_detection_yolov8/dataset/Train/images
+val: /content/gdrive/MyDrive/Caution_wet_sign_detection_yolov8/dataset/Val/images
