@@ -90,7 +90,6 @@ results.show()
 ```
 
 ## 7. Additional Notes
-
-    - Ensure the hardware (GPU/TPU) is optimized for training and inference.
-    - Save the best-performing model for deployment (best.pt).
+- Ensure the hardware (GPU/TPU) is optimized for training and inference.
+- Save the best-performing model for deployment (best.pt).
 
