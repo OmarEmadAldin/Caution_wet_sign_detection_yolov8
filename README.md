@@ -28,10 +28,10 @@ yolo train data=data.yaml model=yolov8n.yaml epochs=100 imgsz=640
 ```
 
 - **Parameters**
-    --     data: Path to the data.yaml file.
-    --     model: Model type (e.g., yolov8n, yolov8s, yolov8m, etc.).
-    --     epochs: Number of training epochs.
-    --     imgsz: Image size used for training.
+    - data: Path to the data.yaml file.
+    - model: Model type (e.g., yolov8n, yolov8s, yolov8m, etc.).
+    - epochs: Number of training epochs.
+    - imgsz: Image size used for training.
 
 ## 3. Monitoring Training
     a. Monitor the training logs for:
